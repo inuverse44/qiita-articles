@@ -1,0 +1,8 @@
+.remote
+node_modules
+
+# Mac
+.DS_Store
+
+# config
+config.txt
